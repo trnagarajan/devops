@@ -37,10 +37,15 @@
 				<name>trn-libs-release-local</name>
 				<url>https://trnagarajan.jfrog.io/artifactory/trn-libs-release</url>
 	   </repository>
-	   <snapshotRepository>
+<!-- 	   <snapshotRepository>
 				<id>trn-libs-snapshot-local</id>
 				<name>trn-libs-snapshot-local</name>
 				<url>https://trnagarajan.jfrog.io/artifactory/trn-libs-snapshot</url>
+	   </snapshotRepository> -->
+	   	<snapshotRepository>
+				<id>trn-libs-snapshot-local</id>
+				<name>trn-libs-snapshot-local</name>
+				<url>file://C:/Users/0044VJ744/.m2/repository</url>
 	   </snapshotRepository>
     </distributionManagement>
 	
