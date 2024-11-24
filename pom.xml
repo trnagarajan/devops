@@ -32,10 +32,15 @@
 	</properties>
 	
 	<distributionManagement>
-	  <repository>
+<!--    <repository>
 				<id>trn-libs-release-local</id>
 				<name>trn-libs-release-local</name>
 				<url>https://trnagarajan.jfrog.io/artifactory/trn-libs-release</url>
+	   </repository> -->
+	   	   	<repository>
+				<id>trn-libs-release-local</id>
+				<name>trn-libs-release-local</name>
+				<url>file://C:/Users/0044VJ744/.m2/repository</url>
 	   </repository>
 <!-- 	   <snapshotRepository>
 				<id>trn-libs-snapshot-local</id>
