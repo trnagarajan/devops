@@ -1,0 +1,11 @@
+diff a/src/main/resources/templates/index.html b/src/main/resources/templates/index.html	(rejected hunks)
+@@ -3,7 +3,7 @@
+ 	<head>
+ 		<titl>DevOps</titl>
+ 		<body>
+-			<h1>Welcome to DevOps Course</h1>
++			<h1>Welcome to DevOps Course - nv103-demo</h1>
+ 		</body>
+ 	</head>
+ </html>
+\ No newline at end of file
