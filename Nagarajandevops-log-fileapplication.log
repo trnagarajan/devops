@@ -1,0 +1,6 @@
+2024-11-30 16:56:14.426 [INFO ] [main] c.e.d.w.WelcomeControllerTest - Starting WelcomeControllerTest using Java 17.0.5 with PID 27140 (started by NagarajanTuraiyurRam in C:\Nagarajan\jenkins-vscode-workspace\devops)
+2024-11-30 16:56:14.428 [INFO ] [main] c.e.d.w.WelcomeControllerTest - No active profile set, falling back to 1 default profile: "default"
+2024-11-30 16:56:15.255 [INFO ] [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2024-11-30 16:56:15.530 [INFO ] [main] c.e.d.w.WelcomeControllerTest - Started WelcomeControllerTest in 1.44 seconds (process running for 2.918)
+2024-11-30 16:56:16.373 [INFO ] [main] o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.example.devops.DevopsApplicationTests]: DevopsApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-11-30 16:56:16.379 [INFO ] [main] o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.example.devops.DevopsApplication for test class com.example.devops.DevopsApplicationTests
