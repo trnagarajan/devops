@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.4-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>devops</name>
 	<description>Demo project for Spring Boot</description>
@@ -76,8 +76,13 @@
 		<dependency>
         	<groupId>org.springframework.boot</groupId>
         	<artifactId>spring-boot-devtools</artifactId>
-    </dependency>
-	</dependencies>
+    	</dependency>
+    	<dependency>
+        	<groupId>org.springframework.boot</groupId>
+        	<artifactId>spring-boot-starter-logging</artifactId>
+    	</dependency>
+    
+    </dependencies>
 
     <build>
         <plugins>
